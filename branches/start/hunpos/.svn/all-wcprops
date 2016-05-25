@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/branches/start/hunpos
+END
+test.ml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/branches/start/hunpos/test.ml
+END
+trie.ml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/branches/start/hunpos/trie.ml
+END
+ngramtree.ml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/branches/start/hunpos/ngramtree.ml
+END
+viterbi.ml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/branches/start/hunpos/viterbi.ml
+END
+ngram.ml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/branches/start/hunpos/ngram.ml
+END
+testviterbi.ml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/branches/start/hunpos/testviterbi.ml
+END
+io.ml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/branches/start/hunpos/io.ml
+END
+simple_hmm.ml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/branches/start/hunpos/simple_hmm.ml
+END
